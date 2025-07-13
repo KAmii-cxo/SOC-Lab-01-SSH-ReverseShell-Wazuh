@@ -38,6 +38,7 @@ Simulated brute force attack on SSH followed by reverse shell and persistence vi
 ## 📂 Files & Documentation
 
 - 📄 [Full Report (PDF)](https://drive.google.com/file/d/1n64Er-_OHhs_NZYD31HbZPKbs0Mb--bo/view?usp=drive_link)
+- 📘 [Full TOC version available in GDoc here](https://docs.google.com/document/d/1CVfDZTuOEb2MJw0WkZrOI94V3nAKwzYkoinYQAgXbMQ/edit?usp=sharing)
 - 📸 Screenshots in `screenshots/`
 - 🧪 Hunting notes in `hunting/`
 - 🛡️ Detection config in `detection/`
